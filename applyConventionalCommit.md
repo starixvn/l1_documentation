@@ -1,4 +1,3 @@
-
 **Conventional Commits** provides an easy set of rules for creating an explicit commit history. This leads to more readable messages that are easy to follow when looking through the project history. [Read full of spec and samples of Conventional Commits.](https://conventionalcommits.org) 
 
 #### Commit Message Format
