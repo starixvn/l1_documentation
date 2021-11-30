@@ -55,7 +55,7 @@ transformIgnorePatterns: [
 "test-:-integration-:-start-test": "jest --testPathPattern=__integration-tests__/  --detectOpenHandles --ci --reporters=default --reporters=jest-junit",
 ```
 
-#### Update gitlab.ci
+#### add integration step to gitlab.ci
 
 ```sh
 integration-tests:
